@@ -1,0 +1,65 @@
+h1{
+    text-align: center;
+    margin-top: 4%;
+    padding-bottom: 8%;
+}
+.form-field{
+    text-align: center;
+}
+input{
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+#username{
+    font-size: medium;
+    
+    
+}
+body{
+    background-color: lightcyan;
+}
+#email{
+    font-size: medium;
+    
+    
+}
+#password{
+    font-size: medium;
+    
+}
+#confirm-password{
+    font-size: medium;
+    
+    
+}
+.username{
+    margin-right: 7%;
+}
+.email{
+    margin-right: 9%;
+    margin-top: 2%;
+}
+.confirm-password{
+    margin-right: 5%;
+}
+.password{
+    margin-right: 8%;
+}
+.container{
+    text-align: center;
+    height: 555px;
+    width:455px;
+    background-color: whitesmoke;
+    margin-top: 4%;
+    margin-left: 35%;
+}
+#submit{
+    margin-top: 2%;
+    padding-left: 17%;
+    padding-right: 17%;
+    padding-bottom: 4px;
+    background-color: blue;
+    
+    box-sizing: border-box;
+}
